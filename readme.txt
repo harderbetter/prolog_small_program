@@ -1,5 +1,7 @@
 Here is the small program I design use prolog language. The knowledge base and the output has listed above.
 
+***********************************************************************************************************
+
 More about prolog:
 Prolog is a general-purpose logic programming language associated with artificial intelligence and computational linguistics.
 
