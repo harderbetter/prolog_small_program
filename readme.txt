@@ -1,4 +1,11 @@
-Here is the small program I design use prolog language. The knowledge base and the output has listed above.
+Here is the small program I design use prolog language. The knowledge base and the output has listed above.Here are the tasks that I accomplished:
+
+1.	Translate System Requirements, Domain Properties, and Assumptions toa Prolog Database to be used for consistency checking from the given logical non-Prolog statements.
+
+2.	Set the appropriate software state to be true and verify that the resulting system state is a requirement statement that is true.
+
+3.	Set the appropriate system state to be true and verifying that the resulting software state is a requirement statement that is true.
+
 
 ***********************************************************************************************************
 
